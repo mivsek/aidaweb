@@ -1,0 +1,36 @@
+{
+	"category" : "Aida-Imaging",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Extension",
+		"GraphicControlLabel",
+		"ImageSeparator",
+		"Terminator" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"width",
+		"height",
+		"bitsPerPixel",
+		"colorPalette",
+		"rowByteSize",
+		"xpos",
+		"ypos",
+		"pass",
+		"interlace",
+		"codeSize",
+		"clearCode",
+		"eoiCode",
+		"freeCode",
+		"maxCode",
+		"prefixTable",
+		"suffixTable",
+		"remainBitCount",
+		"bufByte",
+		"bufStream",
+		"transparentPixel" ],
+	"name" : "GifImageStream",
+	"pools" : [
+		 ],
+	"super" : "ImageStream",
+	"type" : "normal" }

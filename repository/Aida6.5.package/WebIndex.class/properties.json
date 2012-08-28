@@ -1,0 +1,18 @@
+{
+	"category" : "Aida-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"index",
+		"indexedObjects",
+		"popularWords",
+		"workQueue",
+		"indexer" ],
+	"name" : "WebIndex",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"new" : "" },
+	"instance" : {
+		"app" : "",
+		"clear" : "",
+		"close" : "",
+		"context" : "janko 11/1/2011 14:46",
+		"form" : "",
+		"initPopupStub" : "",
+		"isWebWindow" : "",
+		"parent:" : "",
+		"popupStub" : "",
+		"popupStyle" : "",
+		"registerFormElementsTo:" : "",
+		"shouldIdent" : "",
+		"streamHtmlTo:for:on:" : "" } }

@@ -1,0 +1,3 @@
+state
+setStateComposing
+	state := #composing

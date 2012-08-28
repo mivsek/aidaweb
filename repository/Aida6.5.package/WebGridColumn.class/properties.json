@@ -1,0 +1,28 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parent",
+		"id",
+		"name",
+		"width",
+		"align",
+		"aspect",
+		"linkAspect",
+		"linkView",
+		"viewBlock",
+		"addBlock",
+		"sorted",
+		"filter",
+		"filterWidth",
+		"summaryType",
+		"summary" ],
+	"name" : "WebGridColumn",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Applications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"state" ],
+	"name" : "WebWidget",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

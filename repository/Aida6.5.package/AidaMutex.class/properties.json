@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 3/19/2012 13:08",
+	"instvars" : [
+		"semaphore",
+		"owner" ],
+	"name" : "AidaMutex",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

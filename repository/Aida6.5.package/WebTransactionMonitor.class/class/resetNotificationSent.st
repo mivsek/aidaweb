@@ -1,0 +1,4 @@
+accessing
+resetNotificationSent
+
+	NotificationSent := false.

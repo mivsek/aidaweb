@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Admin",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"host",
+		"ip",
+		"port" ],
+	"name" : "WebAdmin",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

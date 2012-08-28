@@ -1,0 +1,3 @@
+accessing
+aidaContentType
+	^'image/png'.

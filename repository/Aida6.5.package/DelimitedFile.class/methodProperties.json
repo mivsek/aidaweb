@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"fileToWrite:" : " 21/4/07 22:07",
+		"new" : " 21/4/07 22:07",
+		"readFrom:" : " 21/4/07 22:07" },
+	"instance" : {
+		"codepage" : " 21/4/07 22:07",
+		"codepage:" : " 21/4/07 22:07",
+		"crlf" : " 21/4/07 22:07",
+		"defaultCodepage" : "",
+		"defaultDelimiter" : " 21/4/07 22:07",
+		"delimiter" : " 21/4/07 22:07",
+		"delimiter:" : " 21/4/07 22:07",
+		"endOfLine:" : " 21/4/07 22:07",
+		"filename" : " 21/4/07 22:07",
+		"filename:" : " 21/4/07 22:07",
+		"initialize" : " 21/4/07 22:07",
+		"newRecordFrom:" : " 21/4/07 22:07",
+		"readFieldFrom:" : "mivsek 6/13/2007 16:03",
+		"readFrom:" : "",
+		"readFromStream:" : " 21/4/07 22:07",
+		"records" : " 21/4/07 22:07",
+		"records:" : " 21/4/07 22:07",
+		"skipEndOfLine:" : " 21/4/07 22:07",
+		"writeRecord:to:" : " 21/4/07 22:07",
+		"writeToFile" : " 21/4/07 22:07",
+		"writeToFile:" : " 21/4/07 22:07" } }

@@ -1,0 +1,18 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"command",
+		"context",
+		"element",
+		"value",
+		"other" ],
+	"name" : "WebCommand",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		"cache" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"lastUsed" ],
+	"name" : "WebMethodImage",
+	"pools" : [
+		 ],
+	"super" : "WebMethodResource",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parent",
+		"timestamp",
+		"period",
+		"method",
+		"object",
+		"block" ],
+	"name" : "WebScheduledEvent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

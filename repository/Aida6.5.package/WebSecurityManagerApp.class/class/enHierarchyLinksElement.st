@@ -1,0 +1,9 @@
+translations
+enHierarchyLinksElement
+	^#(
+	('<b>Security</b>'->'<b>Security</b>')
+	('Security'->'Security')
+	('<b>Users</b>'->'<b>Users</b>')
+	('<b>Groups</b>'->'<b>Groups</b>')
+	('<b>Filters</b>'->'<b>Filters</b>')
+	)

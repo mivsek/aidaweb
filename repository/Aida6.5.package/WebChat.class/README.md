@@ -1,0 +1,1 @@
+WebChat is domain object for Chat real-time web example

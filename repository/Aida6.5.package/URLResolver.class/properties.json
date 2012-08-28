@@ -1,0 +1,19 @@
+{
+	"category" : "Aida-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"site",
+		"allWebPages",
+		"allURLLinks",
+		"counters",
+		"totalCounter",
+		"randomGen" ],
+	"name" : "URLResolver",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

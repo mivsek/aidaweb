@@ -1,0 +1,17 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"filenameAspect",
+		"contentTypeAspect",
+		"writeStream",
+		"writeBlock" ],
+	"name" : "WebFileInputField",
+	"pools" : [
+		 ],
+	"super" : "WebInputField",
+	"type" : "normal" }

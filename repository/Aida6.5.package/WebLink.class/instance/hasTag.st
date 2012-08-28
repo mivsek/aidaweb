@@ -1,0 +1,3 @@
+private
+hasTag
+	^false  "well .."

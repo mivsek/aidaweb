@@ -1,0 +1,1 @@
+WebTranslDict is a dictionary holding the last level in WebTranslator cache. Special dictionary is needed to catch the changes when doing translations by translation tools and storing them back to appropriate class translation methods.

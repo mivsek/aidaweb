@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"file",
+		"filename" ],
+	"name" : "WebFileInputTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

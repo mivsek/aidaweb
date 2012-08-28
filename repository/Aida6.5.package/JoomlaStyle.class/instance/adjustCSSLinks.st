@@ -1,0 +1,3 @@
+maintenance
+adjustCSSLinks
+	JoomlaStyle new adjustLinksInCSSMethod: #cssJoomlaTemplate

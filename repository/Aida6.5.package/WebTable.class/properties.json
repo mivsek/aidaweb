@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WebTable",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

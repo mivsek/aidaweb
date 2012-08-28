@@ -1,0 +1,18 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"site",
+		"object",
+		"method",
+		"contentType",
+		"preferedUrl" ],
+	"name" : "WebMethodResource",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

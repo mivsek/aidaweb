@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"server",
+		"site",
+		"mgr" ],
+	"name" : "WebSecurityTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

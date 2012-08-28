@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "jm 4/26/2009 15:40",
+		"tearDown" : " 21/4/07 22:08",
+		"testAddingSingleEvent" : "mivsek 8/22/2007 20:54",
+		"testAddingSingleEvent2" : "mivsek 8/22/2007 20:54",
+		"testMinutePeriodicEvent" : " 21/4/07 22:08",
+		"testMoreMinutePeriodicEvents" : "mivsek 8/22/2007 20:58",
+		"testOrderOf2AscEvents" : "mivsek 8/22/2007 20:57",
+		"testOrderOf2DescEvents" : "mivsek 8/22/2007 20:57",
+		"testOrderOf3AscEvents" : "mivsek 8/22/2007 20:57",
+		"testOrderOf3DescEvents" : "mivsek 8/22/2007 20:58",
+		"testOrderOf3MixedEvents" : "mivsek 8/22/2007 20:58",
+		"testSetup" : " 21/4/07 22:08",
+		"transcript" : " 21/4/07 22:08",
+		"transcript1" : " 21/4/07 22:08",
+		"transcript2" : " 21/4/07 22:08",
+		"transcript3" : " 21/4/07 22:08",
+		"transcript4" : " 21/4/07 22:08",
+		"transcript5" : " 21/4/07 22:08" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Admin",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"date",
+		"domainObject" ],
+	"name" : "WebStatisticsApp",
+	"pools" : [
+		 ],
+	"super" : "WebApplication",
+	"type" : "normal" }

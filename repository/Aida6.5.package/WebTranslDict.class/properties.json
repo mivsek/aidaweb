@@ -1,0 +1,19 @@
+{
+	"category" : "Aida-i18n",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"translator",
+		"class",
+		"method",
+		"language",
+		"dict",
+		"changes" ],
+	"name" : "WebTranslDict",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

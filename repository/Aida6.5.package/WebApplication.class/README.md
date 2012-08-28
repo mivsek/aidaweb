@@ -1,0 +1,1 @@
+WebApplication is a superclass of all App subclasses for presentations (VC in MVC pattern) of domain objects on the web. By convention the App class is named DomainClass+App, for example PersonApp for Person domain class

@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"legend" ],
+	"name" : "WebFieldSet",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

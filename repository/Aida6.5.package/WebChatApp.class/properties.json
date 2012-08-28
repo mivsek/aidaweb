@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Demos",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WebChatApp",
+	"pools" : [
+		 ],
+	"super" : "WebApplication",
+	"type" : "normal" }

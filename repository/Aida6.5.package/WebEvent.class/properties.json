@@ -1,0 +1,18 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 8/25/2012 17:11",
+	"instvars" : [
+		"event",
+		"element",
+		"context",
+		"pageUrl",
+		"value" ],
+	"name" : "WebEvent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

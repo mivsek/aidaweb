@@ -1,0 +1,23 @@
+{
+	"category" : "Aida-Demos",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"introduction",
+		"date",
+		"input",
+		"delayedInput",
+		"field1",
+		"field2",
+		"editField",
+		"content",
+		"submitValue",
+		"deleted" ],
+	"name" : "WebDemo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"size",
+		"length" ],
+	"name" : "WebSeparator",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

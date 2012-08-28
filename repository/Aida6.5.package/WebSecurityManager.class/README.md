@@ -1,0 +1,1 @@
+WebSecurityManager for user and group management, authentication and access control in web Apps. See WebSecurityManagerApp for setup security on the site.

@@ -1,0 +1,1 @@
+OrganizationUnit for hierarchical modeling some organization like a company

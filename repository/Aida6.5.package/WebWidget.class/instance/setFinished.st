@@ -1,0 +1,3 @@
+state
+setFinished
+	state := #finished

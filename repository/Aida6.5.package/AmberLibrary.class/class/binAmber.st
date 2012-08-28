@@ -1,0 +1,6 @@
+resources
+binAmber
+^'#!/bin/bash
+cd `dirname $0`/..
+node ./repl/amber.js
+'

@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"site",
+		"sessions" ],
+	"name" : "WebSessionManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

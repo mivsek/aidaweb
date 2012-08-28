@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 8/25/2012 14:21",
+	"instvars" : [
+		 ],
+	"name" : "WebLabel",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

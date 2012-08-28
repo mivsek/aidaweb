@@ -1,0 +1,3 @@
+*Aida
+aidaIsRespondingStreamed
+	^false

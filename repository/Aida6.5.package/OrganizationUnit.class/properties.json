@@ -1,0 +1,17 @@
+{
+	"category" : "Aida-Parties",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"type",
+		"parent",
+		"units",
+		"specialRoles" ],
+	"name" : "OrganizationUnit",
+	"pools" : [
+		 ],
+	"super" : "Party",
+	"type" : "normal" }

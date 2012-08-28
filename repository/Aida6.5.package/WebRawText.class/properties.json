@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "WebRawText",
+	"pools" : [
+		 ],
+	"super" : "WebText",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+Party is abstract class for persons or companies, holding basic information, roels and relations to other parties (like this person is an employee to that company). It also registers all events related to that party.

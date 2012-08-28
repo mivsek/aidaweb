@@ -1,0 +1,3 @@
+accessing
+nrOfSteps
+	^4

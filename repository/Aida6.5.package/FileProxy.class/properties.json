@@ -1,0 +1,26 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"site",
+		"filename",
+		"timestamps",
+		"content",
+		"contentType",
+		"size",
+		"caching",
+		"codepage",
+		"elements",
+		"bodyTagIndex",
+		"imgTagIndexes",
+		"linkTagIndexes",
+		"servletTagIndexes" ],
+	"name" : "FileProxy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

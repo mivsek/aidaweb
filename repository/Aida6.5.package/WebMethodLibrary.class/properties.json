@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Libraries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 8/25/2012 11:30",
+	"instvars" : [
+		 ],
+	"name" : "WebMethodLibrary",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

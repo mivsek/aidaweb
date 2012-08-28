@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"image",
+		"size" ],
+	"name" : "WebButton",
+	"pools" : [
+		 ],
+	"super" : "WebFormElement",
+	"type" : "normal" }

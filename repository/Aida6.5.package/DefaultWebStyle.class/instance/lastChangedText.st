@@ -1,0 +1,3 @@
+layout
+lastChangedText
+	^'Updated: '

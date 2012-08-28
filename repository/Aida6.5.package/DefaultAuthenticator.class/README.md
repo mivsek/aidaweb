@@ -1,0 +1,1 @@
+DefaultAuthenticator authentificates the user during login by username and password, which are stored locally in site's security manager, by contrast to for instance the LDAPAuthenticator, which asks the LDAP directory server to authenticate this user.

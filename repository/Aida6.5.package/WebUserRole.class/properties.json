@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Roles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"username",
+		"password" ],
+	"name" : "WebUserRole",
+	"pools" : [
+		 ],
+	"super" : "Role",
+	"type" : "normal" }

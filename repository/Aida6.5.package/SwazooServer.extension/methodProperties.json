@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"aidaDemoStart" : "np 3/15/2009 15:54",
+		"aidaDemoStop" : "np 3/15/2009 15:55",
+		"aidaStartOn:" : "mivsek 1/10/2008 18:10" },
+	"instance" : {
+		"aidaDemoSite" : "",
+		"aidaDemoStart" : "",
+		"aidaDemoStop" : "",
+		"aidaSites" : "",
+		"aidaStartOn:" : "mivsek 1/10/2008 22:06",
+		"prepareAidaDemoSiteOnPort:" : "mivsek 1/10/2008 22:07" } }

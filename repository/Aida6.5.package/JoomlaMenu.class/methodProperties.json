@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"new" : " 10/1/08 16:19" },
+	"instance" : {
+		"addFirstPageWithDescription:" : " 10/1/08 16:19",
+		"addPage:description:" : " 10/1/08 16:19",
+		"initPages" : " 10/1/08 16:19",
+		"initialize" : " 10/1/08 16:19",
+		"linkToWikiPage:text:" : " 10/1/08 16:19",
+		"pages" : " 10/1/08 16:19",
+		"prepareModule" : " 10/1/08 16:19" } }

@@ -1,0 +1,13 @@
+resources
+examplesWebosErisAppinfoJson
+^'{
+	"id": "jtalk.eris",
+	"version": "0.0.1",
+	"vendor": "Krampe Dynamic Development",
+	"type": "web",
+	"main": "index.html",
+	"title": "Eris",
+	"icon": "icon.png",
+	"uiRevision": 2
+}
+'

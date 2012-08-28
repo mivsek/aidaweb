@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-i18n",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 8/25/2012 17:14",
+	"instvars" : [
+		 ],
+	"name" : "WebLanguage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

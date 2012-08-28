@@ -1,0 +1,26 @@
+{
+	"category" : "Aida-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default",
+		"Dialect",
+		"HourlySnapshot",
+		"LastPreSnapshot",
+		"LastSnapshot",
+		"RandomGen",
+		"SloveneCharacters" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"style",
+		"settings",
+		"systemServices",
+		"userServices",
+		"timestamps",
+		"counters",
+		"other" ],
+	"name" : "AIDASite",
+	"pools" : [
+		 ],
+	"super" : "SwazooSite",
+	"type" : "normal" }

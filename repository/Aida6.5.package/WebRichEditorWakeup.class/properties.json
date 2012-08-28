@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "WebRichEditorWakeup",
+	"pools" : [
+		 ],
+	"super" : "WebWidget",
+	"type" : "normal" }

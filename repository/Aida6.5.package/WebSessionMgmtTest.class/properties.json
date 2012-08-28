@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"server",
+		"site",
+		"session" ],
+	"name" : "WebSessionMgmtTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

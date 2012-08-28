@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"baseUrl" : "",
+		"baseUrl:" : "",
+		"changelog" : "",
+		"ensurePrototype" : "",
+		"ensureScriptaculous" : "",
+		"invalidateMapCache" : "",
+		"libPrototypeJs" : "",
+		"mitLicense" : "",
+		"readmeRdoc" : "",
+		"srcBuilderJs" : "",
+		"srcControlsJs" : "",
+		"srcDragdropJs" : "",
+		"srcEffectsJs" : "",
+		"srcScriptaculousJs" : "",
+		"srcSliderJs" : "",
+		"srcSoundJs" : "",
+		"srcUnittestJs" : "",
+		"urlToMethodMap" : "" },
+	"instance" : {
+		 } }

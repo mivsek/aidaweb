@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"button" ],
+	"name" : "WebDateInputField",
+	"pools" : [
+		 ],
+	"super" : "WebInputField",
+	"type" : "normal" }

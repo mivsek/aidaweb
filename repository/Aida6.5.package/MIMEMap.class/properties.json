@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"mimeTypes",
+		"fileExtensions" ],
+	"name" : "MIMEMap",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "Aida-Libraries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Singleton" ],
+	"commentStamp" : "janko 8/25/2012 11:31",
+	"instvars" : [
+		"library",
+		"package",
+		"baseUrl",
+		"exclude",
+		"tempDir",
+		"baseDir",
+		"map" ],
+	"name" : "WebMethodLibImporter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

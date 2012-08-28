@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"value" ],
+	"name" : "AidaModelNullAdaptor",
+	"pools" : [
+		 ],
+	"super" : "AidaModelAdaptor",
+	"type" : "normal" }

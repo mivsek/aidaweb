@@ -1,0 +1,19 @@
+{
+	"category" : "Aida-Demos",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"liveImage",
+		"selectedClasses",
+		"filename",
+		"fileContentType",
+		"fileStream",
+		"startStamp" ],
+	"name" : "WebDemoApp",
+	"pools" : [
+		 ],
+	"super" : "WebApplication",
+	"type" : "normal" }

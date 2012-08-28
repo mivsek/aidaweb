@@ -1,0 +1,3 @@
+defaults
+siteHost
+	^'localhost'

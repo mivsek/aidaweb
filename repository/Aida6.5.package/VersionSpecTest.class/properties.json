@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VersionSpecTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

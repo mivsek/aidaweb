@@ -1,0 +1,18 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"size",
+		"attribute",
+		"formated",
+		"allow",
+		"triggerElement" ],
+	"name" : "WebInPlaceEditableText",
+	"pools" : [
+		 ],
+	"super" : "WebFormElement",
+	"type" : "normal" }

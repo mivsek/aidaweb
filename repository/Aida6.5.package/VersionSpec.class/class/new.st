@@ -1,0 +1,3 @@
+private
+new
+	^self shouldNotImplement

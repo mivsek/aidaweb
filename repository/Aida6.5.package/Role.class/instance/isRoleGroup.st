@@ -1,0 +1,3 @@
+testing
+isRoleGroup
+	^false

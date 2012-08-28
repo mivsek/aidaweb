@@ -1,0 +1,4 @@
+authentication
+setSSLClientCertificateAuthenticationScheme
+	"AIDASite default securityManager setSSLClientCertificateAuthenticationScheme"
+	self authenticationScheme: #SSLClientCertificate

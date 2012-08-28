@@ -1,0 +1,21 @@
+{
+	"category" : "Aida-Admin",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"users",
+		"usersToRemove",
+		"groups",
+		"groupsToRemove",
+		"usr",
+		"group",
+		"aclObject",
+		"aclForWho" ],
+	"name" : "WebSecurityManagerApp",
+	"pools" : [
+		 ],
+	"super" : "WebApplication",
+	"type" : "normal" }

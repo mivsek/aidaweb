@@ -1,0 +1,3 @@
+private
+inputFieldId
+	^self id

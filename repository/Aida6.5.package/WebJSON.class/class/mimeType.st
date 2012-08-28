@@ -1,0 +1,3 @@
+private
+mimeType
+	^'application/json'

@@ -1,0 +1,21 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"started",
+		"day",
+		"year",
+		"dailyCounts",
+		"hourlyCounts",
+		"todayHourlyCounts",
+		"total",
+		"yearlyHistory" ],
+	"name" : "WebCounter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

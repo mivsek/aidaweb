@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"newForEvent:on:" : "" },
+	"instance" : {
+		"actionBlocks" : "",
+		"addAcceptPostedInput" : "",
+		"addAcceptSubmittedForm" : "",
+		"addActionBlock:" : "",
+		"addAnswer:" : "",
+		"addCloseWindow" : "janko 10/31/2011 20:08",
+		"addJsonExists" : "",
+		"addNewTab" : "",
+		"addPageUnload" : "",
+		"addPopup:onStub:" : "",
+		"addUpdate:with:" : "",
+		"context" : "",
+		"element" : "",
+		"element:" : "",
+		"event" : "",
+		"event:" : "",
+		"handleEvent:" : "",
+		"initActionBlocks" : "",
+		"runCloseEventHandler" : "" } }

@@ -1,0 +1,3 @@
+testing
+isStubElement
+	^true

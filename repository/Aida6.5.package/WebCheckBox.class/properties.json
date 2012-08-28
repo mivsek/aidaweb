@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"checked",
+		"selected" ],
+	"name" : "WebCheckBox",
+	"pools" : [
+		 ],
+	"super" : "WebFormElement",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fields",
+		"action",
+		"tabOrder",
+		"superform",
+		"subforms" ],
+	"name" : "WebForm",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

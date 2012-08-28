@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Admin",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WebSessionManagerApp",
+	"pools" : [
+		 ],
+	"super" : "WebApplication",
+	"type" : "normal" }

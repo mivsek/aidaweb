@@ -1,0 +1,3 @@
+texts
+galleryNextText
+	^'Next'

@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"kind",
+		"type" ],
+	"name" : "WebList",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

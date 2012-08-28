@@ -1,0 +1,3 @@
+private-composing
+aidaIsRespondingStreamed
+	^self context page aidaIsRespondingStreamed

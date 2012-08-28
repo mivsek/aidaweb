@@ -1,0 +1,15 @@
+SystemOrganization addCategory: #'Aida-Core'!
+SystemOrganization addCategory: #'Aida-Internal'!
+SystemOrganization addCategory: #'Aida-Elements'!
+SystemOrganization addCategory: #'Aida-Applications'!
+SystemOrganization addCategory: #'Aida-Styles'!
+SystemOrganization addCategory: #'Aida-Widgets'!
+SystemOrganization addCategory: #'Aida-Imaging'!
+SystemOrganization addCategory: #'Aida-i18n'!
+SystemOrganization addCategory: #'Aida-Parties'!
+SystemOrganization addCategory: #'Aida-Roles'!
+SystemOrganization addCategory: #'Aida-Admin'!
+SystemOrganization addCategory: #'Aida-Support'!
+SystemOrganization addCategory: #'Aida-Demos'!
+SystemOrganization addCategory: #'Aida-Tests'!
+SystemOrganization addCategory: #'Aida-Libraries'!

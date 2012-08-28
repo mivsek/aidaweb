@@ -1,0 +1,1 @@
+WebDemoApp collects few demonstrations of Aida/Web in action, like examples of Ajax use etc.

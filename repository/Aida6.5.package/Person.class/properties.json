@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Parties",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"surname" ],
+	"name" : "Person",
+	"pools" : [
+		 ],
+	"super" : "Party",
+	"type" : "normal" }

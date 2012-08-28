@@ -1,0 +1,31 @@
+{
+	"category" : "Aida-Imaging",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"bfType",
+		"bfSize",
+		"bfReserved1",
+		"bfReserved2",
+		"bfOffBits",
+		"biSize",
+		"biWidth",
+		"biHeight",
+		"biPlanes",
+		"biBitCount",
+		"biCompression",
+		"biSizeImage",
+		"biXPelsPerMeter",
+		"biYPelsPerMeter",
+		"biClrUsed",
+		"biClrImportant",
+		"imagePalette",
+		"imageObject" ],
+	"name" : "BmpImageStream",
+	"pools" : [
+		 ],
+	"super" : "ImageStream",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"site",
+		"referers",
+		"refererStopList" ],
+	"name" : "WebStatistics",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

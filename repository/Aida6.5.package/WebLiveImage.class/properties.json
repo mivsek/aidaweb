@@ -1,0 +1,18 @@
+{
+	"category" : "Aida-Imaging",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"gif",
+		"refreshed",
+		"width",
+		"height",
+		"painter" ],
+	"name" : "WebLiveImage",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

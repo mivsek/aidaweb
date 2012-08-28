@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"title",
+		"url",
+		"object" ],
+	"name" : "DocLink",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

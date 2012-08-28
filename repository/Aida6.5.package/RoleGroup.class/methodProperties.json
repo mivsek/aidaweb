@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : " 10/1/08 16:41",
+		"allPersonsWithJobRoles" : " 10/1/08 16:41",
+		"allRoleGroups" : " 10/1/08 16:41",
+		"allRoles" : " 10/1/08 16:41",
+		"includes:" : " 10/1/08 16:41",
+		"initSubroles" : " 10/1/08 16:41",
+		"isPerson" : " 10/1/08 16:41",
+		"isRole" : " 10/1/08 16:41",
+		"isRoleGroup" : " 10/1/08 16:41",
+		"migrateToUnicode" : " 10/1/08 16:41",
+		"name" : " 10/1/08 16:41",
+		"name:" : " 10/1/08 16:41",
+		"nameToDisplay" : " 10/1/08 16:41",
+		"printString" : " 10/1/08 16:41",
+		"remove:" : " 10/1/08 16:41",
+		"subroles" : " 10/1/08 16:41",
+		"uuid" : " 10/1/08 16:41" } }

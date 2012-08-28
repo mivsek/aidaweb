@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"delay" ],
+	"name" : "WebDelayedField",
+	"pools" : [
+		 ],
+	"super" : "WebInputField",
+	"type" : "normal" }

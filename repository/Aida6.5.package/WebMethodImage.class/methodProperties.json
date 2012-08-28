@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"cache" : "rob.rothwell 3/2/2009 22:00",
+		"fromMethod:on:contentType:site:" : "",
+		"imageForObject:andMethod:" : " 21/4/07 22:07",
+		"initCache" : "rob.rothwell 3/2/2009 22:00" },
+	"instance" : {
+		"addToCache" : " 21/4/07 22:07",
+		"cacheHysteresis" : " 21/4/07 22:07",
+		"lastUsed" : "JM 4/26/2007 17:48",
+		"lastUsed:" : " 21/4/07 22:07",
+		"makeRoomInCache" : " 21/4/07 22:07",
+		"maxCacheSize" : " 21/4/07 22:07",
+		"preferredUrl" : "",
+		"printString" : "",
+		"removeFromCache" : " 21/4/07 22:07",
+		"removeFromURLResolver" : " 21/4/07 22:07",
+		"resolver" : " 21/4/07 22:07" } }

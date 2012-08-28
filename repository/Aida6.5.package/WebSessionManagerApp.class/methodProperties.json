@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"enViewLogged" : "",
+		"enViewMain" : "",
+		"frViewLogged" : "",
+		"frViewMain" : "",
+		"slViewLogged" : "",
+		"slViewMain" : "" },
+	"instance" : {
+		"activeSessionsElement" : "",
+		"hierarchyLinksElement" : "",
+		"lastActivityAndLocationElementFor:" : "",
+		"loggedSessionsElement" : "",
+		"stateElementFor:" : "",
+		"tabsElement" : "",
+		"viewBack" : "",
+		"viewLogged" : "",
+		"viewMain" : "" } }

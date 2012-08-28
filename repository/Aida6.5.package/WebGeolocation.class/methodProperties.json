@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"newFromJSON:" : "" },
+	"instance" : {
+		"accuracy" : "",
+		"accuracy:" : "",
+		"altitude" : "",
+		"altitude:" : "",
+		"altitudeAccuracy" : "",
+		"altitudeAccuracy:" : "",
+		"heading" : "",
+		"heading:" : "",
+		"latitude" : "",
+		"latitude:" : "",
+		"longitude" : "",
+		"longitude:" : "",
+		"speed" : "",
+		"speed:" : "",
+		"timestamp" : "",
+		"timestamp:" : "" } }

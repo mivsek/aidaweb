@@ -1,0 +1,21 @@
+resources
+examplesTrysmalltalkIndexHtml
+^'<html>
+<head>
+<title>TrySmalltalk</title>
+<script src="../../js/amber.js" type="text/javascript"></script>
+</head>
+<body>
+<script type="text/javascript"> 
+	loadAmber({
+		files: [''TrySmalltalk.js''],
+		prefix: ''examples/trysmalltalk/js'',
+		ready: function() {
+			smalltalk.Browser._openOn_(smalltalk.ProfStef)
+			smalltalk.TrySmalltalkWidget._open();
+		}}); 
+</script>
+
+</body>
+</html>
+'

@@ -1,0 +1,17 @@
+{
+	"category" : "Aida-Imaging",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"data",
+		"margin",
+		"title",
+		"graphics" ],
+	"name" : "WebGraph",
+	"pools" : [
+		 ],
+	"super" : "WebLiveImage",
+	"type" : "normal" }

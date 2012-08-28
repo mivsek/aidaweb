@@ -1,0 +1,17 @@
+{
+	"category" : "Aida-Admin",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"username",
+		"password",
+		"newUser",
+		"newSite" ],
+	"name" : "WebAdminApp",
+	"pools" : [
+		 ],
+	"super" : "WebApplication",
+	"type" : "normal" }

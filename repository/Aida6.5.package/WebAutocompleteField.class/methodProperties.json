@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"aspect:for:choicesAspect:for:" : " 21/4/07 22:07",
+		"aspect:for:choicesAspect:for:choiceAspect:" : " 21/4/07 22:07" },
+	"instance" : {
+		"acceptInputFromValue:" : "",
+		"addSetupScriptOn:choicesElement:" : "",
+		"afterPostAndUpdate:" : "",
+		"choiceAspect" : " 21/4/07 22:07",
+		"choiceAspect:" : " 21/4/07 22:07",
+		"choicesAspect" : " 21/4/07 22:07",
+		"choicesAspect:" : " 21/4/07 22:07",
+		"choicesAspect:for:" : " 21/4/07 22:07",
+		"choicesObject" : " 21/4/07 22:07",
+		"choicesObject:" : " 21/4/07 22:07",
+		"elementToUpdate" : "",
+		"elementToUpdate:" : "",
+		"getChoicesForEntry:" : " 21/4/07 22:07",
+		"initialize" : "",
+		"isAutocompleteField" : " 21/4/07 22:07",
+		"prepareAttributesToPrintOn:" : "janko 9/19/2011 14:31",
+		"prepareAttributesToStreamOn:" : "",
+		"streamHtmlTo:for:on:" : "" } }

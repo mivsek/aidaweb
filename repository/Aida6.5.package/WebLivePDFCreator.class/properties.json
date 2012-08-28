@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "WebLivePDFCreator",
+	"pools" : [
+		 ],
+	"super" : "WebMethodResource",
+	"type" : "normal" }

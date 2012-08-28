@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"ensureResourcesInPageHeader" : "" },
+	"instance" : {
+		"buttonsFirstLine" : "",
+		"buttonsFirstLine:" : "",
+		"buttonsSecLine" : "",
+		"buttonsSecLine:" : "",
+		"buttonsThirdLine" : "",
+		"buttonsThirdLine:" : "",
+		"contentStyleUrl" : "",
+		"defaultButtonsFirstLine" : "",
+		"defaultButtonsSecLine" : "",
+		"defaultButtonsThirdLine" : "",
+		"defaultInlinePopups" : "",
+		"defaultPlugins" : "",
+		"initScript" : "",
+		"initialize" : "",
+		"inlinePopups" : "",
+		"plugins" : "",
+		"plugins:" : "",
+		"saveCallback" : "",
+		"saveCallback:" : "",
+		"streamHtmlTo:for:on:" : "" } }

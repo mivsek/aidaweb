@@ -1,0 +1,3 @@
+encoding
+writeDepth24Palette
+	^imageObject palette

@@ -1,0 +1,3 @@
+views
+viewAdd
+	^self viewEdit

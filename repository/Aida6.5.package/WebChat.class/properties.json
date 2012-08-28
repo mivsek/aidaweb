@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Demos",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Singleton" ],
+	"commentStamp" : "janko 7/8/2011 22:07",
+	"instvars" : [
+		"lines",
+		"announcers" ],
+	"name" : "WebChat",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

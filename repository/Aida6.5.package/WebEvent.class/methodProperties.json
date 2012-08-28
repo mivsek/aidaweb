@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"fromJSON:on:" : "" },
+	"instance" : {
+		"app" : "",
+		"context" : "",
+		"context:" : "",
+		"element" : "",
+		"element:" : "",
+		"event" : "",
+		"event:" : "",
+		"fromJSON:" : "",
+		"isAjaxRequest" : "",
+		"isClassicalRequest" : "",
+		"isWebEvent" : "",
+		"isWebRequest" : "",
+		"pageUrl" : "",
+		"pageUrl:" : "",
+		"pageView" : "",
+		"postData" : "",
+		"postKeysAndValuesDo:" : "",
+		"printString" : "",
+		"reconnectOn:" : "",
+		"relativeUrl" : "",
+		"value" : "",
+		"value:" : "" } }

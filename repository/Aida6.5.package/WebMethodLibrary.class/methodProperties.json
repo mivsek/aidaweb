@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"aidaIsRespondingStreamed" : "",
+		"aidaPresenterFor:on:" : "",
+		"baseUrl" : "",
+		"baseUrl:" : "",
+		"checkBaseUrl:" : "",
+		"context" : "",
+		"ensure:onPage:" : "",
+		"ensureInHeader" : "",
+		"invalidateMapCache" : "",
+		"resourceFor:" : "",
+		"streamHtmlTo:for:on:" : "janko 8/27/2012 20:04",
+		"urlToMethodMap" : "" },
+	"instance" : {
+		 } }

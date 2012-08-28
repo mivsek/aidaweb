@@ -1,0 +1,18 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"object",
+		"number",
+		"current",
+		"parent",
+		"next" ],
+	"name" : "VersionSpec",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

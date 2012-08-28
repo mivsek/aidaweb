@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Libraries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BaseUrl",
+		"MapCache" ],
+	"commentStamp" : "janko 8/25/2012 11:37",
+	"instvars" : [
+		 ],
+	"name" : "AmberLibrary",
+	"pools" : [
+		 ],
+	"super" : "WebMethodLibrary",
+	"type" : "normal" }

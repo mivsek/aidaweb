@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"replicationSpecaa" : " 10/1/08 16:40" },
+	"instance" : {
+		"addEmployee:" : " 10/1/08 16:40",
+		"allEvents" : " 10/1/08 16:40",
+		"autoEMailAddressesForPersons" : " 10/1/08 16:40",
+		"cleanupEmployeeToOrgUnitsConnections" : " 10/1/08 16:40",
+		"company" : " 10/1/08 16:40",
+		"connectEmployeesToOrgUnits" : " 10/1/08 16:40",
+		"connectPersonsToWebUsers" : " 10/1/08 16:40",
+		"employeeNamed:" : " 10/1/08 16:40",
+		"employeeNamedSurnamed:" : " 10/1/08 16:40",
+		"employeeSurnamedNamed:" : " 10/1/08 16:40",
+		"existEmployeeWithId:" : " 10/1/08 16:40",
+		"existEmployeeWithName:surname:" : " 10/1/08 16:40",
+		"isCompany" : " 10/1/08 16:40",
+		"preferredUrl" : "",
+		"printString" : "",
+		"removeEmployee:" : " 10/1/08 16:40" } }

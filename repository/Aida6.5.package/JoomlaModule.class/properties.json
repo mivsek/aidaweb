@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Styles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"header",
+		"body" ],
+	"name" : "JoomlaModule",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

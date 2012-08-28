@@ -1,0 +1,19 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		"lock" ],
+	"classvars" : [
+		"BusySessions",
+		"LastCommit",
+		"LocalServers",
+		"Muttex",
+		"NotificationSent",
+		"Transactions" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "WebTransactionMonitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

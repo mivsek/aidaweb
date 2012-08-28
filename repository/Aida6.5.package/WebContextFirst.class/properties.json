@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"view",
+		"mainSemaphore" ],
+	"name" : "WebContextFirst",
+	"pools" : [
+		 ],
+	"super" : "WebContext",
+	"type" : "normal" }

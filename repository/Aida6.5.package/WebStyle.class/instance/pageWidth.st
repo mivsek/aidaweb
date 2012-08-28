@@ -1,0 +1,3 @@
+defaults
+pageWidth
+	^800

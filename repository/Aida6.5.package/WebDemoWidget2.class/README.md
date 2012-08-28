@@ -1,0 +1,1 @@
+WebDemoWidget2 to show a hierarchy of widgets. This widget is namelly composed of two WebDemoWidget

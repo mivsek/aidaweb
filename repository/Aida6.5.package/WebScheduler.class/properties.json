@@ -1,0 +1,17 @@
+{
+	"category" : "Aida-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 3/19/2012 21:25",
+	"instvars" : [
+		"site",
+		"queue",
+		"loop",
+		"mutex" ],
+	"name" : "WebScheduler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

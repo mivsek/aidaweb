@@ -1,0 +1,19 @@
+{
+	"category" : "Aida-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"dates",
+		"values",
+		"changedDates",
+		"authors",
+		"comments",
+		"historyCollection" ],
+	"name" : "HistoryOfValue",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"newOn:" : "" },
+	"instance" : {
+		"add:" : "",
+		"cleanup" : "janko 7/13/2011 20:41",
+		"cometConnections" : "",
+		"connections" : "",
+		"initConnections" : "",
+		"isRealtimeChannelOpen" : "",
+		"removeAll" : "",
+		"respondToCometRequest:" : "",
+		"sendMesagesFromQueue" : "",
+		"session" : "",
+		"session:" : "",
+		"site" : "",
+		"streamCometOn:for:on:" : "",
+		"streamWebSocketOn:for:on:" : "janko 7/13/2011 17:07",
+		"webSocketConnections" : "" } }

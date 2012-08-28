@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"newLoadUrl:" : "",
+		"newUpdate:with:" : "" },
+	"instance" : {
+		"app" : "",
+		"asJSON" : "",
+		"command" : "",
+		"command:" : "",
+		"context" : "",
+		"context:" : "",
+		"element" : "",
+		"element:" : "",
+		"initOther" : "",
+		"isUpdate" : "",
+		"other" : "",
+		"otherAt:" : "",
+		"otherAt:ifAbsent:" : "",
+		"otherAt:ifAbsentPut:" : "",
+		"otherAt:put:" : "",
+		"printString" : "",
+		"value" : "",
+		"value:" : "",
+		"view" : "" } }

@@ -1,0 +1,19 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 7/8/2011 23:14",
+	"instvars" : [
+		"type",
+		"handler",
+		"connection",
+		"app",
+		"view",
+		"semaphore" ],
+	"name" : "WebRealtimeConnection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

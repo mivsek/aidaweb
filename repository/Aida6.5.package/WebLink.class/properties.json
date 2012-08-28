@@ -1,0 +1,18 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ooReference",
+		"urlReference",
+		"parms",
+		"anchor",
+		"security" ],
+	"name" : "WebLink",
+	"pools" : [
+		 ],
+	"super" : "WebText",
+	"type" : "normal" }

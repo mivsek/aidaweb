@@ -1,0 +1,3 @@
+private
+startAttributeTag
+	^self attribute

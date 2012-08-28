@@ -1,0 +1,1 @@
+FieldSet element groups one or more input fields together. It usually (depends on style) also enclose them with border. Legend is for writing a name of the filedset on the corner

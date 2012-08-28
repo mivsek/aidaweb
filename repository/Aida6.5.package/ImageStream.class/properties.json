@@ -1,0 +1,17 @@
+{
+	"category" : "Aida-Imaging",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ColorPalette256",
+		"GrayPalette256",
+		"ImageKindTable" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"imageStream",
+		"progressValue" ],
+	"name" : "ImageStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

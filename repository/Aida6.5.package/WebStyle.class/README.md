@@ -1,0 +1,1 @@
+WebStyle is abstract class for subclasses containing styling for websites (CSS, page layouts etc.)

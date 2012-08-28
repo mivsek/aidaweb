@@ -1,0 +1,17 @@
+{
+	"category" : "Aida-Styles",
+	"classinstvars" : [
+		"each" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"site",
+		"resources",
+		"searchButton",
+		"style" ],
+	"name" : "WebStyle",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

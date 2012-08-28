@@ -1,0 +1,3 @@
+texts
+fontSizeText
+	^'font size:'

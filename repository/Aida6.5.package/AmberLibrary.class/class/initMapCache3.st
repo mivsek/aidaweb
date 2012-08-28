@@ -1,0 +1,46 @@
+map
+initMapCache3
+	MapCache
+		at: '/js/lib/CodeMirror/amber.css' put: #(jsLibCodemirrorAmberCss 'text/css');
+		at: '/js/lib/CodeMirror/codemirror.css' put: #(jsLibCodemirrorCodemirrorCss 'text/css');
+		at: '/js/lib/CodeMirror/codemirror.js' put: #(jsLibCodemirrorCodemirrorJs 'text/javascript');
+		at: '/js/lib/CodeMirror/LICENSE' put: #(jsLibCodemirrorLicense 'text/plain');
+		at: '/js/lib/CodeMirror/smalltalk.js' put: #(jsLibCodemirrorSmalltalkJs 'text/javascript');
+		at: '/js/lib/jQuery/jquery-1.4.4.min.js' put: #(jsLibJqueryJquery144MinJs 'text/javascript');
+		at: '/js/lib/jQuery/jquery-1.6.4.min.js' put: #(jsLibJqueryJquery164MinJs 'text/javascript');
+		at: '/js/lib/jQuery/jquery-ui-1.8.16.custom.min.js' put: #(jsLibJqueryJqueryUi1816CustomMinJs 'text/javascript');
+		at: '/js/lib/jQuery/jquery.textarea.js' put: #(jsLibJqueryJqueryTextareaJs 'text/javascript');
+		at: '/js/lib/peg-0.6.2.min.js' put: #(jsLibPeg062MinJs 'text/javascript');
+		at: '/js/lib/showdown.js' put: #(jsLibShowdownJs 'text/javascript');
+		at: '/js/parser.js' put: #(jsParserJs 'text/javascript');
+		at: '/js/parser.pegjs' put: #(jsParserPegjs 'text/plain');
+		at: '/js/SUnit.deploy.js' put: #(jsSunitDeployJs 'text/javascript');
+		at: '/js/SUnit.js' put: #(jsSunitJs 'text/javascript');
+		at: '/learn.html' put: #(learnHtml 'text/html');
+		at: '/LICENSE' put: #(license 'text/plain');
+		at: '/Makefile' put: #(makefile 'text/plain');
+		at: '/README.md' put: #(readmeMd 'application/x-genesis-rom');
+		at: '/repl/amber.js' put: #(replAmberJs 'text/javascript');
+		at: '/repl/Makefile' put: #(replMakefile 'text/plain');
+		at: '/repl/REPL.js' put: #(replReplJs 'text/javascript');
+		at: '/repl/REPL.st' put: #(replReplSt 'text/plain');
+		at: '/server/FileServer.st' put: #(serverFileserverSt 'text/plain');
+		at: '/server/Makefile' put: #(serverMakefile 'text/plain');
+		at: '/server/server.js' put: #(serverServerJs 'text/javascript');
+		at: '/st/Benchfib.st' put: #(stBenchfibSt 'text/plain');
+		at: '/st/Canvas.st' put: #(stCanvasSt 'text/plain');
+		at: '/st/Compiler-Tests.st' put: #(stCompilerTestsSt 'text/plain');
+		at: '/st/Compiler.st' put: #(stCompilerSt 'text/plain');
+		at: '/st/Documentation.st' put: #(stDocumentationSt 'text/plain');
+		at: '/st/Examples.st' put: #(stExamplesSt 'text/plain');
+		at: '/st/IDE.st' put: #(stIdeSt 'text/plain');
+		at: '/st/Kernel-Announcements.st' put: #(stKernelAnnouncementsSt 'text/plain');
+		at: '/st/Kernel-Classes.st' put: #(stKernelClassesSt 'text/plain');
+		at: '/st/Kernel-Collections.st' put: #(stKernelCollectionsSt 'text/plain');
+		at: '/st/Kernel-Exceptions.st' put: #(stKernelExceptionsSt 'text/plain');
+		at: '/st/Kernel-Methods.st' put: #(stKernelMethodsSt 'text/plain');
+		at: '/st/Kernel-Objects.st' put: #(stKernelObjectsSt 'text/plain');
+		at: '/st/Kernel-Tests.st' put: #(stKernelTestsSt 'text/plain');
+		at: '/st/Kernel-Transcript.st' put: #(stKernelTranscriptSt 'text/plain');
+		at: '/st/Makefile' put: #(stMakefile 'text/plain');
+		at: '/st/SUnit.st' put: #(stSunitSt 'text/plain').

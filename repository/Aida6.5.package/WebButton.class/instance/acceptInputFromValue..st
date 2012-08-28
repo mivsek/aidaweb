@@ -1,0 +1,2 @@
+private
+acceptInputFromValue: aString

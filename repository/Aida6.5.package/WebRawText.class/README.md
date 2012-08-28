@@ -1,0 +1,1 @@
+WebRawText for plain ascii text, without any encodings!

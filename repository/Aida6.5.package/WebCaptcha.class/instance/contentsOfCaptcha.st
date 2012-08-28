@@ -1,0 +1,3 @@
+private-streaming
+contentsOfCaptcha
+	^self filename contentsOfEntireFileBinary asString

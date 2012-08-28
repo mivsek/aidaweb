@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"fromMethod:on:contentType:preferedUrl:site:" : "janko 3/19/2012 21:17",
+		"fromMethod:on:contentType:site:" : "" },
+	"instance" : {
+		"aidaContentType" : "jm 7/29/2010 12:30",
+		"aidaContentType:" : "jm 7/29/2010 12:30",
+		"aidaIsRespondingStreamed" : "janko 4/25/2012 10:59",
+		"aidaPresenterFor:on:" : "",
+		"expiresTimestamp" : "mivsek 1/10/2008 17:41",
+		"isWebElement" : " 21/4/07 22:07",
+		"isWebPage" : " 21/4/07 22:07",
+		"method" : " 21/4/07 22:07",
+		"method:" : " 21/4/07 22:07",
+		"object" : " 21/4/07 22:07",
+		"object:" : " 21/4/07 22:07",
+		"preferredUrl" : "janko 3/19/2012 13:21",
+		"preferredUrl:" : "janko 3/19/2012 21:17",
+		"printString" : "",
+		"site" : " 21/4/07 22:07",
+		"site:" : " 21/4/07 22:07",
+		"streamHtmlTo:for:on:" : "" } }

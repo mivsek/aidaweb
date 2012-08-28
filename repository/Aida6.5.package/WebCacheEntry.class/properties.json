@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"content",
+		"created",
+		"timeout" ],
+	"name" : "WebCacheEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

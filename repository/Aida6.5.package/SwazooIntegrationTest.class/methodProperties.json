@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"localSendUrl:" : " 21/4/07 22:08",
+		"sendUrl:" : " 21/4/07 22:08",
+		"setUp" : " 21/4/07 22:08",
+		"siteHost" : " 21/4/07 22:08",
+		"siteIP" : " 21/4/07 22:08",
+		"siteName" : " 21/4/07 22:08",
+		"sitePort" : " 21/4/07 22:08",
+		"siteRootUri" : " 21/4/07 22:08",
+		"siteSSLPort" : " 21/4/07 22:08",
+		"tearDown" : " 21/4/07 22:08",
+		"testAccessingByName" : " 21/4/07 22:08",
+		"testAdminPage" : " 21/4/07 22:08",
+		"testDummyRequest" : " 21/4/07 22:08",
+		"testLocalAdminPage" : " 21/4/07 22:08",
+		"testLocalDummyRequest" : " 21/4/07 22:08",
+		"testSetUp" : " 21/4/07 22:08",
+		"testStarting" : "mivsek 8/22/2007 21:00" } }

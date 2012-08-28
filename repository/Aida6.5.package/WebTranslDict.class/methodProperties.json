@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"newOn:forClass:method:language:" : "" },
+	"instance" : {
+		"at:" : "",
+		"at:ifAbsent:" : "",
+		"at:ifAbsentPut:" : "",
+		"at:put:" : "",
+		"changes" : "",
+		"dict" : "",
+		"initChanges" : "",
+		"initDict" : "",
+		"initialAt:put:" : "",
+		"language" : "",
+		"language:" : "",
+		"method" : "",
+		"method:" : "",
+		"printOn:" : "",
+		"site" : "",
+		"translClass" : "",
+		"translClass:" : "",
+		"translator" : "",
+		"translator:" : "",
+		"view:" : "",
+		"writeChanges" : "" } }

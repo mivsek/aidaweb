@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"site",
+		"files" ],
+	"name" : "WebStaticServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

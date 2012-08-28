@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rows",
+		"columns" ],
+	"name" : "WebTextArea",
+	"pools" : [
+		 ],
+	"super" : "WebFormElement",
+	"type" : "normal" }

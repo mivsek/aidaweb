@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 8/25/2012 17:12",
+	"instvars" : [
+		"session",
+		"connections" ],
+	"name" : "WebRealtimeHandler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

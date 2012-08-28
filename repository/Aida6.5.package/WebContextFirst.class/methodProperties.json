@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"newOn:" : "" },
+	"instance" : {
+		"app" : "",
+		"close" : "",
+		"first" : "",
+		"initMainSemaphore" : "",
+		"initWindow" : "",
+		"isFirst" : "",
+		"level" : "",
+		"mainSemaphore" : "",
+		"parent:" : "",
+		"printString" : "",
+		"view" : "",
+		"view:" : "" } }

@@ -1,0 +1,3 @@
+private
+acceptInputFromValue: aString
+	self subclassResponsibility

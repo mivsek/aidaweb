@@ -1,0 +1,1 @@
+WebUser is the user on our website. This class holds basic user data, address, login history, etc. It can also have user specific data in #otherValues instvar. There are few predefined users like Guest (anymone not logged in), Admin (have access to everything, kind of 'root' user) and Extranet (not used much yet).

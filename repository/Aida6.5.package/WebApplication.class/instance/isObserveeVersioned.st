@@ -1,0 +1,3 @@
+private-versions
+isObserveeVersioned
+	^self observee isVersionedObject

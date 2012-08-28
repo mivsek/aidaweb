@@ -1,0 +1,3 @@
+accessing
+createdTimestampText
+	^self created printSloString

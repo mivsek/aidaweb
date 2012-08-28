@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"origin" ],
+	"name" : "WebValidationError",
+	"pools" : [
+		 ],
+	"super" : "WebWidget",
+	"type" : "normal" }

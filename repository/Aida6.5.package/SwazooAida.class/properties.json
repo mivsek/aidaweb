@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SwazooAida",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

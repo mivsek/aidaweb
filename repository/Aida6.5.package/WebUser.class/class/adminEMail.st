@@ -1,0 +1,3 @@
+defaults
+adminEMail
+	^'admin'

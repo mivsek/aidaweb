@@ -1,0 +1,29 @@
+{
+	"category" : "Aida-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parent",
+		"id",
+		"username",
+		"password",
+		"name",
+		"surname",
+		"company",
+		"address",
+		"city",
+		"zip",
+		"country",
+		"website",
+		"email",
+		"phone",
+		"fax",
+		"other" ],
+	"name" : "WebUser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+WebStaticServer serves static content from files. It holds a dictionary of urls and FileProxies, for each file one.

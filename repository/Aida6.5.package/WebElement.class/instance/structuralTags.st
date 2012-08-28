@@ -1,0 +1,14 @@
+tags
+structuralTags
+	^#(
+		div
+		span
+		article
+		aside
+		figure
+		figcaption
+		header
+		footer
+		hgroup
+		nav
+		section)

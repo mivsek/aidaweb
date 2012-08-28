@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"addToCache:" : "janko 3/22/2008 16:29",
+		"cache" : "janko 3/22/2008 16:28",
+		"initCache" : "janko 3/22/2008 16:28",
+		"new" : "janko 3/22/2008 18:38",
+		"newFor:" : "janko 3/22/2008 18:39",
+		"releaseExpiredCaptchas" : "janko 3/22/2008 16:30" },
+	"instance" : {
+		"aidaContentType" : "",
+		"aidaIsRespondingStreamed" : "janko 4/25/2012 10:58",
+		"aidaPresenterFor:on:" : "",
+		"backgroundImageFilename" : "janko 3/22/2008 01:16",
+		"contentsOfCaptcha" : "",
+		"fontName" : "janko 3/22/2008 15:11",
+		"imageSize" : "janko 3/22/2008 23:23",
+		"isExpired" : "janko 3/22/2008 16:26",
+		"prepareCaptchaImage" : "janko 7/18/2008 17:52",
+		"preparedTimestamp" : "janko 3/22/2008 16:07",
+		"random" : "janko 7/18/2008 17:53",
+		"randomCharacter" : "janko 3/22/2008 18:35",
+		"randomCharacterOnGen:" : "janko 3/22/2008 18:40",
+		"setPreparedTimestamp" : "janko 3/22/2008 16:08",
+		"setRandomText" : "janko 3/22/2008 18:42",
+		"size" : "janko 3/22/2008 15:59",
+		"streamHtmlTo:for:on:" : "",
+		"text" : "janko 3/22/2008 18:27",
+		"text:" : "janko 3/22/2008 18:27" } }

@@ -1,0 +1,27 @@
+{
+	"category" : "Aida-Parties",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"title",
+		"firstName",
+		"middleName",
+		"lastName",
+		"company",
+		"street",
+		"city",
+		"stateProvince",
+		"postalCode",
+		"country",
+		"phones",
+		"fax",
+		"emails",
+		"web" ],
+	"name" : "Address",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

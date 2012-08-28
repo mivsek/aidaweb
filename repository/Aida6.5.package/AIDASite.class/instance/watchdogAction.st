@@ -1,0 +1,3 @@
+private
+watchdogAction
+	self setLastTimeAliveTimestamp

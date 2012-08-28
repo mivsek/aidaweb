@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Demos",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 10/28/2011 13:34",
+	"instvars" : [
+		 ],
+	"name" : "WebDemoWidget2",
+	"pools" : [
+		 ],
+	"super" : "WebWidget",
+	"type" : "normal" }

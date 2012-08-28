@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aidaIsAssociation" : "np 3/25/2009 15:36",
+		"asCollectionOfHtmlHeadings" : "JM 4/22/2007 18:05",
+		"asHttpFriendly" : "janko 8/25/2012 15:06",
+		"asScaledDecimal:" : "janko 8/3/2011 19:10",
+		"asSloveneWithoutCircumflexes" : "JM 4/22/2007 18:05",
+		"contentsAsMethod" : "janko 3/16/2008 11:41",
+		"convertToSloveneChars" : "janko 8/25/2012 15:07",
+		"ensureUnicodeSloveneChars" : "JM 4/22/2007 18:07",
+		"isValidEMailAddress" : "JM 4/22/2007 18:07",
+		"trimBlanks" : "np 3/31/2008 17:25",
+		"withHeadingAnchors" : "np 1/21/2008 17:38",
+		"withHtmlBreaks" : "JM 4/22/2007 18:08",
+		"withoutHtmlTags" : "jm 11/10/2010 21:27" } }

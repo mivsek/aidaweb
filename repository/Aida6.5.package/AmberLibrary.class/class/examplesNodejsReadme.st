@@ -1,0 +1,12 @@
+resources
+examplesNodejsReadme
+^'JTalk + Node.js = Awesomeness
+=============================
+These are some experiments of using JTalk together with Node.js:
+
+hello           - Hello world example with a simple Makefile.
+benchfib        - Port of tinybenchmarks from Squeak.
+trivialserver   - A slightly larger example.
+
+You will need "node" in your path to try all the above.
+'

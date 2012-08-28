@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"views" ],
+	"name" : "ViewTabs",
+	"pools" : [
+		 ],
+	"super" : "WebTabs",
+	"type" : "normal" }

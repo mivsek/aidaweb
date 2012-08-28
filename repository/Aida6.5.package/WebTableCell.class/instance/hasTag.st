@@ -1,0 +1,3 @@
+testing
+hasTag
+	^super hasTag

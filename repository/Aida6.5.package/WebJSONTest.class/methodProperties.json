@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"json:parseTo:" : "",
+		"json:parseToDict:" : "",
+		"json:stringifyFrom:" : "",
+		"json:stringifyFromDict:" : "jm 12/15/2010 00:16",
+		"testParseArray" : "",
+		"testParseDictionary" : "",
+		"testParseFalse" : "",
+		"testParseNull" : "",
+		"testParseNumber" : "janko 7/13/2011 22:01",
+		"testParseString" : "",
+		"testParseTrue" : "",
+		"testStringifyArray" : "",
+		"testStringifyDictionary" : "jm 12/15/2010 00:17",
+		"testStringifyFalse" : "",
+		"testStringifyNil" : "",
+		"testStringifyNumber" : "",
+		"testStringifyString" : "",
+		"testStringifyTrue" : "" } }

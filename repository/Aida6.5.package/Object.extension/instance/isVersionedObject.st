@@ -1,0 +1,3 @@
+*Aida
+isVersionedObject
+	^false

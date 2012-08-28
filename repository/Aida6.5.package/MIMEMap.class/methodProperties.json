@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"apacheMimeTypes" : "",
+		"arrayFromApacheMimeTypes" : " 21/4/07 22:07",
+		"arrayFromTextMimeTypes" : "",
+		"default" : " 21/4/07 22:07",
+		"new" : " 21/4/07 22:07",
+		"textMimeTypes" : "" },
+	"instance" : {
+		"addType:andExtension:" : " 21/4/07 22:07",
+		"extensionForType:" : " 21/4/07 22:07",
+		"extensionsForType:" : " 21/4/07 22:07",
+		"fileExtensions" : " 21/4/07 22:07",
+		"iconForType:" : "",
+		"initFileExtensions" : " 21/4/07 22:07",
+		"initFromApacheMimeTypes" : "",
+		"initMimeTypes" : " 21/4/07 22:07",
+		"initialize" : "",
+		"isTextType:" : "",
+		"mimeTypes" : " 21/4/07 22:07",
+		"removeType:andExtension:" : " 21/4/07 22:07",
+		"typeForExtension:" : " 21/4/07 22:07" } }

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"aspect:for:" : " 21/4/07 22:07",
+		"aspect:for:size:" : " 21/4/07 22:07" },
+	"instance" : {
+		"acceptInputFromValue:" : "",
+		"aspect:for:size:" : " 21/4/07 22:07",
+		"autoConvertAndEncodeValue:" : "",
+		"autoConvertAndEncodeValue:on:" : "",
+		"columns:" : " 21/4/07 22:07",
+		"initialize" : " 21/4/07 22:07",
+		"isTextArea" : " 21/4/07 22:07",
+		"rows:" : " 21/4/07 22:07",
+		"shouldIdent" : " 21/4/07 22:07",
+		"size:" : " 21/4/07 22:07",
+		"streamHtmlTo:for:on:" : "",
+		"wrap:" : " 21/4/07 22:07" } }

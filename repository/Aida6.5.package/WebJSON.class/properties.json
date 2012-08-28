@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stream",
+		"ctorMap" ],
+	"name" : "WebJSON",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 8/25/2012 12:10",
+	"instvars" : [
+		 ],
+	"name" : "WebVideo",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

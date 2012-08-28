@@ -1,0 +1,3 @@
+authentication
+hasHttpAuthenticationScheme
+	^self hasHttpBasicAuthenticationScheme | self hasHttpDigestAuthenticationScheme

@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Imaging",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BosImageStream",
+	"pools" : [
+		 ],
+	"super" : "ImageStream",
+	"type" : "normal" }

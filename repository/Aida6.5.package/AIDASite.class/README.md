@@ -1,0 +1,1 @@
+AIDASite as the most important class is an Aida/Web website with its system and user services, session and security managent, url resolving and many more. AIDASite>>answerTo: is the main entry point of requests comming to that website.

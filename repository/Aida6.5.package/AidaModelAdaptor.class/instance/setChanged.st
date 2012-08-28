@@ -1,0 +1,3 @@
+private
+setChanged
+	changed := true

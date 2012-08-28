@@ -1,0 +1,19 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 8/21/2009 19:45",
+	"instvars" : [
+		"multiple",
+		"collection",
+		"selected",
+		"aspectToStore",
+		"objectToStore",
+		"sort" ],
+	"name" : "WebStubElement",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

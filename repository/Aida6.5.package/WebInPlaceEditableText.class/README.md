@@ -1,0 +1,1 @@
+WebInPlaceEditableText for editing text directly on the page, simply with a click on the text. See WebDemoApp>>ajaxInPlaceEditorExample for an example.

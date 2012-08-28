@@ -1,0 +1,16 @@
+resources
+examplesNodejsHelloReadme
+^'Trivial Node.js example in JTalk that also uses the Google Closure compiler
+if ~/compiler.jar is present.
+
+Hello.st - source code.
+hello    - trivial bash script to run resulting program.
+Makefile - trivial makefile, read it.
+
+Hello.js - produced when you run make. Contains JTalk + Hello.st + a main call
+
+To play, do this:
+
+make
+./hello
+'

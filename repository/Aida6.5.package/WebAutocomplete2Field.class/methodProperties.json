@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"aspect:for:choicesAspect:for:" : "",
+		"aspect:for:choicesAspect:for:choiceAspect:" : "" },
+	"instance" : {
+		"acceptInputFromValue:" : "",
+		"addSetupScript" : "",
+		"afterPostAndUpdate:" : "",
+		"aidaPresenterFor:on:" : "",
+		"choiceAspect" : "",
+		"choiceAspect:" : "",
+		"choicesAsJsonForEntry:" : "",
+		"choicesAspect" : "",
+		"choicesAspect:" : "",
+		"choicesAspect:for:" : "",
+		"choicesObject" : "",
+		"choicesObject:" : "",
+		"elementToUpdate" : "",
+		"elementToUpdate:" : "",
+		"empasizeStarting:in:" : "",
+		"getChoicesForEntry:" : "",
+		"initialize" : "",
+		"isAutocompleteField" : "",
+		"prepareAttributesToStreamOn:" : "",
+		"streamHtmlTo:for:on:" : "" } }

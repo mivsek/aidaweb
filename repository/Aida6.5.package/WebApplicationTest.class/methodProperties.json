@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setRequest" : " 21/4/07 22:08",
+		"setUp" : "mivsek 8/22/2007 21:12",
+		"tearDown" : "mivsek 8/22/2007 21:12",
+		"testChangeObserveeVersion" : "mivsek 8/22/2007 21:13",
+		"testChangeObserveeVersionBack" : "mivsek 8/22/2007 21:13",
+		"testCurrentVersionChange" : "mivsek 8/22/2007 21:13",
+		"testSecurity" : " 21/4/07 22:08",
+		"testSetUp" : "mivsek 8/22/2007 21:13",
+		"testVersionRequest" : "mivsek 8/22/2007 21:14",
+		"testVersionedObject" : "mivsek 8/22/2007 21:14" } }

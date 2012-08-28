@@ -1,0 +1,3 @@
+testing
+isTextArea
+	^true

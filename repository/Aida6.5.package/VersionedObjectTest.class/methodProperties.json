@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testFirstCreation" : " 21/4/07 22:08",
+		"testIdentityPreservation" : " 21/4/07 22:08",
+		"testNewVersion" : " 21/4/07 22:08",
+		"testNewVersionOfExample" : " 21/4/07 22:08",
+		"testSearchByNumber" : " 21/4/07 22:08",
+		"testSetCurrent" : " 21/4/07 22:08",
+		"testSwap3Objects" : " 21/4/07 22:08",
+		"testSwap3Objects2" : " 21/4/07 22:08",
+		"testSwapIdentity" : " 21/4/07 22:08",
+		"testSwapIdentity2" : " 21/4/07 22:08",
+		"testSwapIdentity3" : " 21/4/07 22:08",
+		"testSwapIdentity4" : " 21/4/07 22:08",
+		"testVersionIncrement" : " 21/4/07 22:08",
+		"testWebLink" : " 21/4/07 22:08" } }

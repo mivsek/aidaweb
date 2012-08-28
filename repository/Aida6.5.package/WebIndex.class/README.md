@@ -1,0 +1,1 @@
+WebIndex is a search engine, which index words in a domain object, weightinh their importance (words in header more important etc.), then search for domain objects containing searched keywords (see also WebIndexApp).

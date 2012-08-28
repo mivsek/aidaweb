@@ -1,0 +1,3 @@
+encoding
+flushCode
+	self flushBits

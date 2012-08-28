@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"image",
+		"imageMap" ],
+	"name" : "WebImage",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

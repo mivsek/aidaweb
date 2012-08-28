@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"fromDays:" : "janko 8/3/2011 20:27",
+		"nameOfSloDay:" : "jm 12/8/2010 22:40",
+		"nameOfSloMonth:" : "jm 12/8/2010 22:41",
+		"newDay:monthNumber:year:" : "janko 8/3/2011 20:31",
+		"readSloFrom:" : "jm 12/8/2010 22:57" },
+	"instance" : {
+		"asDays" : "janko 8/3/2011 19:40",
+		"monthAndDayString" : "jm 12/8/2010 22:37",
+		"printISOString" : "jm 12/8/2010 22:35",
+		"shortPrintSloString" : "jm 12/8/2010 22:37",
+		"shorterPrintSloString" : "jm 12/8/2010 22:36" } }

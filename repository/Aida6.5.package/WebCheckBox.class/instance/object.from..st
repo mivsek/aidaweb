@@ -1,0 +1,7 @@
+private
+object: anObject from: aCollection
+	"if checked, this object will be put in collection. If object is initially in collection, 
+	checkbox will be checked"
+	"Usefull for easy selection among many objects"
+	self adaptor: (AidaModelAdaptor new subject: anObject).
+	self selected: aCollection.

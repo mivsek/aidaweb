@@ -1,0 +1,3 @@
+accessing
+nextImage
+	^self subclassResponsibility

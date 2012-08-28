@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aidaPresentationType" : "janko 3/19/2012 13:29",
+		"ajaxElementId" : "jm 11/10/2010 21:23",
+		"ajaxElementToRecreateId" : "jm 11/10/2010 21:23",
+		"context" : "jm 4/24/2009 20:08",
+		"context:" : "jm 4/24/2009 20:08",
+		"contextId" : "jm 4/24/2009 20:14",
+		"creationStContexts" : "jm 12/14/2010 23:42",
+		"idFromCookie" : "mivsek 1/10/2008 18:06",
+		"isAjaxAutocompleteRequest" : "JM 4/22/2007 15:18",
+		"isAjaxCloseWindowRequest" : "jm 8/20/2009 22:05",
+		"isAjaxInPlaceEditingRequest" : "JM 4/22/2007 15:18",
+		"isAjaxPopupWindowRequest" : "jm 8/20/2009 22:05",
+		"isAjaxPostRequest" : "jm 8/20/2009 22:05",
+		"isAjaxPostWithInput" : "jm 8/25/2009 22:46",
+		"isAjaxPostWithSingleInput" : "jm 8/20/2009 22:06",
+		"isAjaxRequest" : "JM 4/22/2007 15:19",
+		"isAjaxWikiFormatedRequest" : "JM 4/22/2007 15:19",
+		"isClassicalRequest" : "jm 2/1/2011 21:13",
+		"isForwarded" : "jm 12/14/2010 23:42",
+		"isPing" : "janko 7/13/2008 11:28",
+		"isWebEvent" : "jm 2/1/2011 21:14",
+		"view" : "" } }

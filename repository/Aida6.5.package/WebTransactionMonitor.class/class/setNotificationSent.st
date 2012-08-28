@@ -1,0 +1,4 @@
+accessing
+setNotificationSent
+
+	NotificationSent := true.

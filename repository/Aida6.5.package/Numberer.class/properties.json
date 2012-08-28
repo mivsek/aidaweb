@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"counters" ],
+	"name" : "Numberer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

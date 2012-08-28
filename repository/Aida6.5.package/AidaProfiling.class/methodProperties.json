@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"areadmeGemstone" : "",
+		"areadmeResultsGS" : "",
+		"areadmeResultsVW" : "",
+		"areadmeSqueak" : "",
+		"areadmeVW" : "",
+		"ensure100KBFile" : "",
+		"pingRequest" : "",
+		"profileAnswerToGS" : "",
+		"profileAnswerToVW" : "",
+		"profilePingToVW" : "",
+		"profileStatic100KBVW" : "",
+		"sampleRequest" : "",
+		"static100KBRequest" : "" } }

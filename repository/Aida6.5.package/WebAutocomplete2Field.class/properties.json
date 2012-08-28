@@ -1,0 +1,17 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 8/25/2012 14:59",
+	"instvars" : [
+		"choicesAspect",
+		"choicesObject",
+		"choiceAspect",
+		"elementToUpdate" ],
+	"name" : "WebAutocomplete2Field",
+	"pools" : [
+		 ],
+	"super" : "WebInputField",
+	"type" : "normal" }

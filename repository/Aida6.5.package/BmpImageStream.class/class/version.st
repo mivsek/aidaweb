@@ -1,0 +1,3 @@
+copyright
+version
+	^'003'

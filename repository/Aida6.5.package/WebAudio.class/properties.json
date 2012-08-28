@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 8/25/2012 15:00",
+	"instvars" : [
+		 ],
+	"name" : "WebAudio",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

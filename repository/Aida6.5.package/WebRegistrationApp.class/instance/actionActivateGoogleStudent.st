@@ -1,0 +1,3 @@
+actions
+actionActivateGoogleStudent
+	self actionActivateStudent

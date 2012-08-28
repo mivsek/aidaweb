@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"+" : "JM 4/22/2007 19:01",
+		"-" : "JM 4/22/2007 19:01",
+		"currentMonth" : "np 10/22/2008 23:36",
+		"currentYear" : "np 10/22/2008 23:37",
+		"firstDayInMonth" : "np 10/22/2008 23:37",
+		"firstDayInNextMonth" : "np 10/22/2008 23:38",
+		"firstDayInNextYear" : "np 10/22/2008 23:38",
+		"firstDayInPreviousMonth" : "np 10/22/2008 23:38",
+		"firstDayInPreviousYear" : "np 10/22/2008 23:38",
+		"lastDayInMonth" : "np 10/22/2008 23:39",
+		"monthAndDayString" : "np 1/22/2008 12:20",
+		"printISOString" : "JM 4/22/2007 19:02",
+		"shortPrintSloString" : "JM 4/26/2007 19:56",
+		"shorterPrintSloString" : "janko 9/30/2011 10:13" } }

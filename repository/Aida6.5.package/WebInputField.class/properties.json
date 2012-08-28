@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"size",
+		"maxLength",
+		"type" ],
+	"name" : "WebInputField",
+	"pools" : [
+		 ],
+	"super" : "WebFormElement",
+	"type" : "normal" }

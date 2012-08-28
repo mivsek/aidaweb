@@ -1,0 +1,20 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"subject",
+		"aspect",
+		"index",
+		"format",
+		"buffer",
+		"changed",
+		"validationBlock" ],
+	"name" : "AidaModelAdaptor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

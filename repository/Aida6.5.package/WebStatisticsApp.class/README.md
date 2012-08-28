@@ -1,0 +1,1 @@
+WebStatisticsApp for showing statistics like visits of first page, per page, referers and more. Statistics are collected from counters in AIDASite and URLResolver, and from referers in WebStatistics

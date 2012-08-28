@@ -1,0 +1,4 @@
+texts
+statsIntroduction
+	"in WebStatisticsApp"
+	^''

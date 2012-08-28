@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "mivsek 8/22/2007 21:20",
+		"tearDown" : "mivsek 8/22/2007 21:20",
+		"testGroups" : "mivsek 8/22/2007 21:21",
+		"testInitialize" : "mivsek 8/22/2007 21:21",
+		"testMultipleAccessRights" : "mivsek 8/22/2007 21:22",
+		"testSimpleAccessRight" : "mivsek 8/22/2007 21:22",
+		"testUsers" : "mivsek 8/22/2007 21:23" } }

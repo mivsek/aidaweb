@@ -1,0 +1,18 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Colors" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parent",
+		"elements",
+		"attributes",
+		"eventHandlers",
+		"other" ],
+	"name" : "WebElement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

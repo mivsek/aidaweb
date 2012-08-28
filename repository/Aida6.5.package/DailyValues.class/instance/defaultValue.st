@@ -1,0 +1,3 @@
+private
+defaultValue
+	^0

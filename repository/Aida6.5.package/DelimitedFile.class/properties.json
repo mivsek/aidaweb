@@ -1,0 +1,17 @@
+{
+	"category" : "Aida-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 7/8/2011 23:21",
+	"instvars" : [
+		"filename",
+		"delimiter",
+		"codepage",
+		"records" ],
+	"name" : "DelimitedFile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

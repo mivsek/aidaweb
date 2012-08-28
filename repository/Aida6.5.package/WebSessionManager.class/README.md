@@ -1,0 +1,1 @@
+WebSessionManager manages all sessions on this website. It creates a new session if needed or finds existing one from a web request. There are also methods for releasing nonactive (more that an hour without activity) or guest sessions, and to release session application state (instances of App classes)

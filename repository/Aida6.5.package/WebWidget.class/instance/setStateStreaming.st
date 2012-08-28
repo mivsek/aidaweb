@@ -1,0 +1,3 @@
+state
+setStateStreaming
+	state := #streaming

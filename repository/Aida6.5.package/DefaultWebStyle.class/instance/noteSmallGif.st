@@ -1,0 +1,5 @@
+imgs-common symbols
+noteSmallGif
+	"small triangle with ! for notes/comments"
+	"'imgs/simplebits-note_icon.gif' asFilename contentsAsMethod"
+^#(71 73 70 56 57 97 12 0 12 0 162 0 0 227 203 118 250 226 142 51 51 51 204 153 102 255 255 255 0 0 0 0 0 0 0 0 0 33 249 4 0 0 0 0 0 44 0 0 0 0 12 0 12 0 0 3 42 72 170 51 251 44 194 24 220 116 33 219 231 132 168 16 230 105 28 17 140 32 117 126 1 96 97 89 236 18 86 134 182 13 1 236 60 239 52 192 160 35 1 0 59 )

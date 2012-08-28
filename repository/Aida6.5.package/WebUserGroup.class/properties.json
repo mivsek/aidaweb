@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"name",
+		"users",
+		"other" ],
+	"name" : "WebUserGroup",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

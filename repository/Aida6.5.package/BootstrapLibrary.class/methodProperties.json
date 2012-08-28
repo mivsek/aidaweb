@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"baseUrl" : "",
+		"baseUrl:" : "",
+		"cssBootstrapCss" : "",
+		"cssBootstrapMinCss" : "",
+		"cssBootstrapResponsiveCss" : "",
+		"cssBootstrapResponsiveMinCss" : "",
+		"ensure" : "",
+		"imgGlyphiconsHalflingsPng" : "",
+		"imgGlyphiconsHalflingsWhitePng" : "",
+		"invalidateMapCache" : "",
+		"jsBootstrapJs" : "",
+		"jsBootstrapMinJs" : "",
+		"urlToMethodMap" : "" },
+	"instance" : {
+		 } }

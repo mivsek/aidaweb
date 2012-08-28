@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"script",
+		"source" ],
+	"name" : "WebScript",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

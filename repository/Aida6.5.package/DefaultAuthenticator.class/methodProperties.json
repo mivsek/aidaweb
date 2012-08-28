@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"newOn:" : "" },
+	"instance" : {
+		"authenticateUserNamed:withPassword:" : "",
+		"endAuthentication" : "",
+		"existUserNamed:" : "",
+		"site" : "",
+		"site:" : "",
+		"startAuthentication" : "",
+		"userNamed:" : "" } }

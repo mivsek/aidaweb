@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Imaging",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Cache" ],
+	"commentStamp" : "janko 3/22/2008 15:26",
+	"instvars" : [
+		"text",
+		"random" ],
+	"name" : "WebCaptcha",
+	"pools" : [
+		 ],
+	"super" : "FileProxy",
+	"type" : "normal" }

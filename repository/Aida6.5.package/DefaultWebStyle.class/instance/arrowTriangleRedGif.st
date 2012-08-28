@@ -1,0 +1,4 @@
+imgs-bullets
+arrowTriangleRedGif
+	"'imgs/filo-redarr.gif' asFilename contentsAsMethod"
+^#(71 73 70 56 57 97 14 0 13 0 128 0 0 255 255 255 255 0 0 33 249 4 1 0 0 0 0 44 0 0 0 0 14 0 13 0 0 2 23 132 143 169 123 193 25 226 51 177 190 138 23 222 112 59 197 49 214 244 77 230 121 20 0 59 )

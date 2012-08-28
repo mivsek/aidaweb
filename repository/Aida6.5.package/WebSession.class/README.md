@@ -1,0 +1,1 @@
+WebSession hold user's session with all appropriate data on this website. It also hold an application state (instances of App classes) which belong to that session. Session can be anonymous (of special user Guest) or logged-in. 

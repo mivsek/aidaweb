@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddress" : " 10/1/08 23:12",
+		"testCompany" : " 10/1/08 23:12",
+		"testCompanyEmployees" : " 10/1/08 23:12",
+		"testEvents" : " 10/1/08 23:12",
+		"testOrgUnitJobRoles" : " 10/1/08 23:12",
+		"testOrganizationUnit" : " 10/1/08 23:12",
+		"testPerson" : " 10/1/08 23:12",
+		"testPersonDocumentsToKnow" : " 10/1/08 23:12",
+		"testPersonRecordFlows" : " 10/1/08 23:12",
+		"testPersonResponsibilities" : " 10/1/08 23:12",
+		"testPersonRoles" : " 10/1/08 23:12",
+		"testRoleGroups" : " 10/1/08 23:12",
+		"testRoles" : " 10/1/08 23:12",
+		"testRolesBasic" : " 10/1/08 23:12",
+		"testRolesSpecific" : " 10/1/08 23:12" } }

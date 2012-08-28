@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"aspect:filenameAspect:contentTypeAspect:forObject:" : " 21/4/07 22:07",
+		"aspect:filenameAspect:forObject:" : " 21/4/07 22:07",
+		"beforeStreamingDo:filenameAspect:contentTypeAspect:forObject:" : " 21/8/07 09:38",
+		"beforeStreamingDo:filenameAspect:forObject:" : " 21/8/07 09:38",
+		"toStream:filenameAspect:contentTypeAspect:forObject:" : " 21/8/07 09:38",
+		"toStream:filenameAspect:forObject:" : " 21/8/07 09:38" },
+	"instance" : {
+		"acceptFileAttributesFrom:field:" : "mu 5/5/2008 10:48",
+		"aspect:filenameAspect:contentTypeAspect:forObject:" : " 21/4/07 22:07",
+		"aspect:filenameAspect:forObject:" : " 21/4/07 22:07",
+		"contentTypeAspect" : " 21/4/07 22:07",
+		"contentTypeAspect:" : " 21/4/07 22:07",
+		"filenameAspect" : " 21/4/07 22:07",
+		"filenameAspect:" : " 21/4/07 22:07",
+		"initialize" : " 21/4/07 22:07",
+		"isFileInputField" : " 21/4/07 22:07",
+		"isInputField" : " 21/4/07 22:07",
+		"isStreamed" : " 21/8/07 09:38",
+		"object:" : "",
+		"prepareAttributesToStreamOn:" : "",
+		"writeBlock" : " 21/8/07 09:38",
+		"writeBlock:" : " 21/8/07 09:38",
+		"writeStream" : " 21/8/07 09:38",
+		"writeStream:" : " 21/8/07 09:38" } }

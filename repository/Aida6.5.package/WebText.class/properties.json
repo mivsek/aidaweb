@@ -1,0 +1,19 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AttributeMarkup" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"text",
+		"size",
+		"textAttributes",
+		"header",
+		"paragraph",
+		"font" ],
+	"name" : "WebText",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

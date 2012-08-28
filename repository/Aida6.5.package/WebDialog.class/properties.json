@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 7/8/2011 23:26",
+	"instvars" : [
+		"type",
+		"text" ],
+	"name" : "WebDialog",
+	"pools" : [
+		 ],
+	"super" : "WebWidget",
+	"type" : "normal" }

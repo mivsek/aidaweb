@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Parties",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Company",
+	"pools" : [
+		 ],
+	"super" : "OrganizationUnit",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"adaptor",
+		"enterTabForm" ],
+	"name" : "WebFormElement",
+	"pools" : [
+		 ],
+	"super" : "WebElement",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+authentication
+setHttpDigestAuthenticationScheme
+	"AIDASite default securityManager setHttpDigestAuthenticationScheme"
+	self authenticationScheme: #HttpDigest

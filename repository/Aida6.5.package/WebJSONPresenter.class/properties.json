@@ -1,0 +1,17 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 3/19/2012 21:02",
+	"instvars" : [
+		"session",
+		"observee",
+		"presenterBlock",
+		"other" ],
+	"name" : "WebJSONPresenter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

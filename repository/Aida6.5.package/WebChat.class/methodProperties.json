@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"singleton" : "" },
+	"instance" : {
+		"addLine:" : "",
+		"announceChange" : "",
+		"announcers" : "",
+		"initAnnouncers" : "",
+		"initLines" : "",
+		"last4Lines" : "",
+		"lines" : "",
+		"removeOlderLines" : "",
+		"whenChangedDo:on:" : "" } }

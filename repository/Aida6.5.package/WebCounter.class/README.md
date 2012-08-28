@@ -1,0 +1,1 @@
+WebCounter for counting web requests daily and per hour. Mostly used in URLResolver for counting visits of pages.

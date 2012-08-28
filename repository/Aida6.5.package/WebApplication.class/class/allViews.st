@@ -1,0 +1,3 @@
+accessing
+allViews
+	^self allComposedViews

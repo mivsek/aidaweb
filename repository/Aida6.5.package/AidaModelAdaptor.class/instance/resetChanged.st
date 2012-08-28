@@ -1,0 +1,3 @@
+private
+resetChanged
+	changed := false

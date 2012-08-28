@@ -1,0 +1,4 @@
+authentication
+setHttpBasicAuthenticationScheme
+	"AIDASite default securityManager setHttpBasicAuthenticationScheme"
+	self authenticationScheme: #HttpBasic

@@ -1,0 +1,1 @@
+WebRegistrationApp is a standalone app (without link to domain model) for the registration process of a new user

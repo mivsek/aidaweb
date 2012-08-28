@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-i18n",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jm 6/27/2009 20:07",
+	"instvars" : [
+		"parent",
+		"cache",
+		"other" ],
+	"name" : "WebTranslator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

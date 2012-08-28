@@ -1,0 +1,14 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "WebRichEditor",
+	"pools" : [
+		 ],
+	"super" : "WebTextArea",
+	"type" : "normal" }

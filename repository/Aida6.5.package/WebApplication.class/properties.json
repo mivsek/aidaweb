@@ -1,0 +1,17 @@
+{
+	"category" : "Aida-Applications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"session",
+		"observee",
+		"contexts",
+		"other" ],
+	"name" : "WebApplication",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

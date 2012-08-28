@@ -1,0 +1,25 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "janko 8/25/2012 14:57",
+	"instvars" : [
+		"id",
+		"parent",
+		"child",
+		"state",
+		"window",
+		"ids",
+		"nextId",
+		"process",
+		"semaphore",
+		"event",
+		"answer",
+		"result" ],
+	"name" : "WebContext",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

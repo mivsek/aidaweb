@@ -1,0 +1,19 @@
+{
+	"category" : "Aida-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"repository",
+		"queue",
+		"sendingLoop",
+		"client",
+		"mailbox",
+		"receivingLoop" ],
+	"name" : "EMailMessenger",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

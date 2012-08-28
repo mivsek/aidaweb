@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"counters" : " 21/4/07 22:07",
+		"currentCounter:" : " 21/4/07 22:07",
+		"decreaseCounter:" : "",
+		"decrementCounter:" : " 21/4/07 22:07",
+		"initCounters" : " 21/4/07 22:07",
+		"nextCounter:" : " 21/4/07 22:07",
+		"peekCounter:" : " 21/4/07 22:07",
+		"resetCounter:" : " 21/4/07 22:07",
+		"setCounter:to:" : " 21/4/07 22:07" } }

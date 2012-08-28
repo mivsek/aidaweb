@@ -1,0 +1,18 @@
+{
+	"category" : "Aida-Admin",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parent",
+		"app",
+		"view",
+		"title",
+		"body" ],
+	"name" : "WebHelpPage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

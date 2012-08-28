@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Parties",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parent",
+		"parties" ],
+	"name" : "PartyCollection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+map
+invalidateMapCache
+	MapCache := nil

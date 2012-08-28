@@ -1,0 +1,16 @@
+{
+	"category" : "Aida-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"content",
+		"contentType",
+		"filename" ],
+	"name" : "WebNonHTMLResource",
+	"pools" : [
+		 ],
+	"super" : "WebWidget",
+	"type" : "normal" }

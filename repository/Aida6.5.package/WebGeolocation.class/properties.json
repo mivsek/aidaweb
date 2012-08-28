@@ -1,0 +1,21 @@
+{
+	"category" : "Aida-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"timestamp",
+		"latitude",
+		"longitude",
+		"accuracy",
+		"altitude",
+		"latitudeAccuracy",
+		"heading",
+		"speed" ],
+	"name" : "WebGeolocation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

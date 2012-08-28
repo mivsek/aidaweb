@@ -1,0 +1,1 @@
+VersionedObject for objects of many versions through the time, with a current version and a new one maybe in preparation. Prime example is Document in Scribo CMS. More on http://www.aidaweb.si/advanced-features.html

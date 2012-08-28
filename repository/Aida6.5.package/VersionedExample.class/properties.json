@@ -1,0 +1,15 @@
+{
+	"category" : "Aida-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"body" ],
+	"name" : "VersionedExample",
+	"pools" : [
+		 ],
+	"super" : "VersionedObject",
+	"type" : "normal" }
